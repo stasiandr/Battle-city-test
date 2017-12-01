@@ -23,5 +23,11 @@
     <ClInclude Include="player_class.h">
       <Filter>Resource Files</Filter>
     </ClInclude>
+    <ClInclude Include="bullet_class.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="map_class.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

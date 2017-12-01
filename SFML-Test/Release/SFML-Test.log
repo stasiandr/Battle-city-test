@@ -1,9 +1,9 @@
 ﻿  main.cpp
-main.cpp(54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   Generating code
-  0 of 304 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+  1 of 302 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    37 functions had inline decision re-evaluated but remain unchanged
+    0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   SFML-Test.vcxproj -> c:\users\vr_lab\documents\visual studio 2015\Projects\SFML-Test\Release\SFML-Test.exe
   SFML-Test.vcxproj -> c:\users\vr_lab\documents\visual studio 2015\Projects\SFML-Test\Release\SFML-Test.pdb (Full PDB)
